@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there. I'm currently a Sophomore studying Computer Science at UC Berkeley. Here's a simple Jekyll site I put together because Jekyll is really cool.
 
 ### More Information
 
@@ -12,4 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: [{{site.footer-links.email}}]({{site.footer-links.email}})
+
+LinkedIn: [{{site.footer-links.linkedin}}](https://linkedin.com/in/{{site.footer-links.linkedin}})
