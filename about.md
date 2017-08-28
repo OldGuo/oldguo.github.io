@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey there. I'm currently a Junior studying Computer Science at UC Berkeley</p>
+<p>Hey there. I'm currently a Junior studying Computer Science at UC Berkeley.</p>
 
 <h2>Skills</h2>
 
