@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/fb_profile.jpg
+picture: assets/images/youngguo.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -104,7 +104,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  - jemoji
 
 jekyll-mentions:
     base_url: https://github.com
