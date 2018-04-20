@@ -36,7 +36,7 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear), Patrick Rothfuss
   - [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind), Patrick Rothfuss
   - [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_), Philip K. Dick
-  - [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers), Malcolm Gladweel
+  - [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers), Malcolm Gladwell
   - [The Goldfinch](https://www.goodreads.com/book/show/17333223-the-goldfinch), Donna Tartt
   - [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics), Steven D. Levitt
   - [Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm), George Orwell
