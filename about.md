@@ -22,7 +22,7 @@ Outside of my classes, I spend most of my time with [CodeBase](https://codebase.
 I've been trying to read more! Here's a short list of some readings I have recently enjoyed and/or am thinking about picking up.
 - **In Progress**
   - [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see), Anthony Doerr
-- **Ineterested In**
+- **Interested In**
   - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), Yuval Noah Harari
   - [The Tipping Point](https://www.goodreads.com/book/show/2612.The_Tipping_Point), Malcolm Gladwell
   - [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages), Brandon Sanderson
