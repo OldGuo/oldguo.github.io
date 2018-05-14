@@ -28,6 +28,7 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages), Brandon Sanderson
   - [The Eye of the World](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World), Robert Jordan
   - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden), John Steinbeck
+  - [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow), Mihaly Csikzentmihalyi
 - **Completed**
   - [The Well of Ascension](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension), Brian Sanderson
   - [The Final Empire](https://www.goodreads.com/book/show/68428.The_Final_Empire), Brian Sanderson
@@ -39,5 +40,3 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers), Malcolm Gladwell
   - [The Goldfinch](https://www.goodreads.com/book/show/17333223-the-goldfinch), Donna Tartt
   - [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics), Steven D. Levitt
-  - [Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm), George Orwell
-  - [1984](https://www.goodreads.com/book/show/5470.1984), George Orwell
