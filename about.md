@@ -21,15 +21,18 @@ Outside of my classes, I spend most of my time with [CodeBase](https://codebase.
 ### Reading
 I've been trying to read more! Here's a short list of some readings I have recently enjoyed and/or am thinking about picking up.
 - **In Progress**
-  - [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see), Anthony Doerr
-- **Interested In**
   - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), Yuval Noah Harari
+- **Interested In**
   - [The Tipping Point](https://www.goodreads.com/book/show/2612.The_Tipping_Point), Malcolm Gladwell
   - [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages), Brandon Sanderson
   - [The Eye of the World](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World), Robert Jordan
   - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden), John Steinbeck
   - [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow), Mihaly Csikzentmihalyi
+  - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge?ac=1&from_search=true), Richard H. Thaler,  Cass R. Sunstein
+  - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
 - **Completed**
+  - [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see), Anthony Doerr
+  - [Rich Dad, Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad), Robert T. Kiyosaki
   - [The Well of Ascension](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension), Brian Sanderson
   - [The Final Empire](https://www.goodreads.com/book/show/68428.The_Final_Empire), Brian Sanderson
   - [Thinking Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), Daniel Kahneman
@@ -38,5 +41,5 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind), Patrick Rothfuss
   - [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_), Philip K. Dick
   - [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers), Malcolm Gladwell
+  - [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything ](https://www.goodreads.com/book/show/1202.Freakonomics), Steven D. Levitt
   - [The Goldfinch](https://www.goodreads.com/book/show/17333223-the-goldfinch), Donna Tartt
-  - [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics), Steven D. Levitt
