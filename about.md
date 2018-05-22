@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ### About Me
-Hey there! I'm currently a 3rd year studying Computer Science at [Cal](http://www.berkeley.edu/). I'll be at [Stripe](https://stripe.com/) this Summer and I was at [Workday](https://www.workday.com/) last summer.
+Hey there! I'm currently a rising senior studying Computer Science at [Cal](http://www.berkeley.edu/). I'll be at [Stripe](https://stripe.com/) this Summer and I was at [Workday](https://www.workday.com/) last summer.
 
 Outside of my classes, I spend most of my time with [CodeBase](https://codebase.berkeley.edu/) and [Cal Badminton](https://badminton.berkeley.edu/).
 
@@ -30,6 +30,7 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow), Mihaly Csikzentmihalyi
   - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge?ac=1&from_search=true), Richard H. Thaler,  Cass R. Sunstein
   - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
+  - [The Subtle Art of Not Giving a F---](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&from_search=true), Mark Manson
 - **Completed**
   - [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see), Anthony Doerr
   - [Rich Dad, Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad), Robert T. Kiyosaki
