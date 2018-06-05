@@ -31,6 +31,7 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge?ac=1&from_search=true), Richard H. Thaler,  Cass R. Sunstein
   - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
   - [The Subtle Art of Not Giving a F---](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&from_search=true), Mark Manson
+  - [12 Rules for Life: An Antidote for Chaos](https://www.goodreads.com/book/show/30257963-12-rules-for-life), Jordan Peterson
 - **Completed**
   - [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see), Anthony Doerr
   - [Rich Dad, Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad), Robert T. Kiyosaki
