@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ### About Me
-Hey there! I'm currently a rising senior studying Computer Science at [Cal](http://www.berkeley.edu/). I'll be at [Stripe](https://stripe.com/) this Summer and I was at [Workday](https://www.workday.com/) last summer.
+Hey there! I'm currently a senior studying Computer Science at [Cal](http://www.berkeley.edu/). I was at [Stripe](https://stripe.com/) last Summer and I was at [Workday](https://www.workday.com/) the summer before.
 
 Outside of my classes, I spend most of my time with [CodeBase](https://codebase.berkeley.edu/) and [Cal Badminton](https://badminton.berkeley.edu/).
 
@@ -28,7 +28,6 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [The Eye of the World](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World), Robert Jordan
   - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden), John Steinbeck
   - [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow), Mihaly Csikzentmihalyi
-  - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
   - [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs), Walter Isaacson
   - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk?ac=1&from_search=true), Ashlee Vance
   - [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People?ac=1&from_search=true), Stephen R. Covey
@@ -38,6 +37,7 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Lean In](https://www.goodreads.com/book/show/16071764-lean-in), Sheryl Sandberg, Nell Scovell
   - [High Growth Handbook](https://www.goodreads.com/book/show/40536148-high-growth-handbook), Elad Gil
 - **Completed**
+  - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
   - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge?ac=1&from_search=true), Richard H. Thaler,  Cass R. Sunstein
   - [The Subtle Art of Not Giving a F---](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&from_search=true), Mark Manson
   - [12 Rules for Life: An Antidote for Chaos](https://www.goodreads.com/book/show/30257963-12-rules-for-life), Jordan Peterson
