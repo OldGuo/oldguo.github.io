@@ -21,7 +21,7 @@ Outside of my classes, I spend most of my time with [CodeBase](https://codebase.
 ### Reading
 I've been trying to read more! Here's a short list of some readings I have recently enjoyed and/or am thinking about picking up.
 - **In Progress**
-  - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), Yuval Noah Harari
+  - [The Underground Railroad](https://www.goodreads.com/book/show/30555488-the-underground-railroad), Colson Whitehead
 - **Interested In**
   - [The Tipping Point](https://www.goodreads.com/book/show/2612.The_Tipping_Point), Malcolm Gladwell
   - [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages), Brandon Sanderson
@@ -36,7 +36,12 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Beyond the Shadows](https://www.goodreads.com/book/show/3754026-beyond-the-shadows), Brent Weeks
   - [Lean In](https://www.goodreads.com/book/show/16071764-lean-in), Sheryl Sandberg, Nell Scovell
   - [High Growth Handbook](https://www.goodreads.com/book/show/40536148-high-growth-handbook), Elad Gil
+  - [Less](https://www.goodreads.com/book/show/39927096-less), Andrew Sean Greer
+  - [In the Distance](https://www.goodreads.com/book/show/34381330-in-the-distance), Hernan Diaz
+  - [The Idiot](https://www.goodreads.com/book/show/30962053-the-idiot), Elif Batuman
 - **Completed**
+  - [The Sympathizer](https://www.goodreads.com/book/show/23168277-the-sympathizer), Viet Thanh Nguyen
+  - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), Yuval Noah Harari
   - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
   - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge?ac=1&from_search=true), Richard H. Thaler,  Cass R. Sunstein
   - [The Subtle Art of Not Giving a F---](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&from_search=true), Mark Manson
