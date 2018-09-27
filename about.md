@@ -10,12 +10,11 @@ Hey there! I'm currently a senior studying Computer Science at [Cal](http://www.
 Outside of my classes, I spend most of my time with [CodeBase](https://codebase.berkeley.edu/) and [Cal Badminton](https://badminton.berkeley.edu/).
 
 ### Skills
-- Python - Java - C - Swift - SQL
-- HTML - CSS - JS
+- Python - Ruby - Java - C - Swift - SQL
+- HTML - CSS - JavaScript - TypeScript
 - React - GraphQL
 - Rails - Django
-- Docker
-- Kubernetes - Helm
+- Docker - Kubernetes - Helm
 - Jenkins
 
 ### Reading
