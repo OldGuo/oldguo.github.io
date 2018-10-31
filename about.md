@@ -28,8 +28,8 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden), John Steinbeck
   - [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow), Mihaly Csikzentmihalyi
   - [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs), Walter Isaacson
-  - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk?ac=1&from_search=true), Ashlee Vance
-  - [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People?ac=1&from_search=true), Stephen R. Covey
+  - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk), Ashlee Vance
+  - [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People), Stephen R. Covey
   - [The Way of Shadows](https://www.goodreads.com/book/show/3227063-the-way-of-shadows), Brent Weeks
   - [Shadow's Edge](https://www.goodreads.com/book/show/3754016-shadow-s-edge), Brent Weeks
   - [Beyond the Shadows](https://www.goodreads.com/book/show/3754026-beyond-the-shadows), Brent Weeks
@@ -37,14 +37,15 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [High Growth Handbook](https://www.goodreads.com/book/show/40536148-high-growth-handbook), Elad Gil
   - [The Idiot](https://www.goodreads.com/book/show/30962053-the-idiot), Elif Batuman
   - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one), Peter Thiel
+  - [The Laws of Human Nature](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature?), Robert Greene
 - **Completed**
   - [Less](https://www.goodreads.com/book/show/39927096-less), Andrew Sean Greer
   - [The Underground Railroad](https://www.goodreads.com/book/show/30555488-the-underground-railroad), Colson Whitehead
   - [The Sympathizer](https://www.goodreads.com/book/show/23168277-the-sympathizer), Viet Thanh Nguyen
   - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens), Yuval Noah Harari
   - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People), Dale Carnegie
-  - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge?ac=1&from_search=true), Richard H. Thaler,  Cass R. Sunstein
-  - [The Subtle Art of Not Giving a F---](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&from_search=true), Mark Manson
+  - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge), Richard H. Thaler,  Cass R. Sunstein
+  - [The Subtle Art of Not Giving a F---](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck), Mark Manson
   - [12 Rules for Life: An Antidote for Chaos](https://www.goodreads.com/book/show/30257963-12-rules-for-life), Jordan Peterson
   - [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see), Anthony Doerr
   - [Rich Dad, Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad), Robert T. Kiyosaki
