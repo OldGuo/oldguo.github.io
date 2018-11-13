@@ -20,7 +20,7 @@ Outside of my classes, I spend most of my time with [CodeBase](https://codebase.
 ### Reading
 I've been trying to read more! Here's a short list of some readings I have recently enjoyed and/or am thinking about picking up.
 - **In Progress**
-  - [The Idiot](https://www.goodreads.com/book/show/30962053-the-idiot), Elif Batuman
+  - [The Laws of Human Nature](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature?), Robert Greene
 - **Interested In**
   - [The Tipping Point](https://www.goodreads.com/book/show/2612.The_Tipping_Point), Malcolm Gladwell
   - [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages), Brandon Sanderson
@@ -36,8 +36,8 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Lean In](https://www.goodreads.com/book/show/16071764-lean-in), Sheryl Sandberg, Nell Scovell
   - [High Growth Handbook](https://www.goodreads.com/book/show/40536148-high-growth-handbook), Elad Gil
   - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one), Peter Thiel
-  - [The Laws of Human Nature](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature?), Robert Greene
 - **Completed**
+  - [The Idiot](https://www.goodreads.com/book/show/30962053-the-idiot), Elif Batuman
   - [In the Distance](https://www.goodreads.com/book/show/34381330-in-the-distance), Hernan Diaz
   - [Less](https://www.goodreads.com/book/show/39927096-less), Andrew Sean Greer
   - [The Underground Railroad](https://www.goodreads.com/book/show/30555488-the-underground-railroad), Colson Whitehead
