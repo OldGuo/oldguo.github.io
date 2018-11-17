@@ -36,6 +36,8 @@ I've been trying to read more! Here's a short list of some readings I have recen
   - [Lean In](https://www.goodreads.com/book/show/16071764-lean-in), Sheryl Sandberg, Nell Scovell
   - [High Growth Handbook](https://www.goodreads.com/book/show/40536148-high-growth-handbook), Elad Gil
   - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one), Peter Thiel
+  - [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem), Liu Cixin
+  - [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one), Ernest Cline
 - **Completed**
   - [The Idiot](https://www.goodreads.com/book/show/30962053-the-idiot), Elif Batuman
   - [In the Distance](https://www.goodreads.com/book/show/34381330-in-the-distance), Hernan Diaz
