@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-[Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ### About Me
 Hey there! I'm currently a senior studying Computer Science at [Cal](http://www.berkeley.edu/). I was at [Stripe](https://stripe.com/) last Summer and I was at [Workday](https://www.workday.com/) the summer before.
