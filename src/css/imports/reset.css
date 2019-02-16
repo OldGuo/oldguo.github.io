@@ -1,0 +1,12 @@
+/*
+  Define your resets here or use something like Normalize.css if you like
+ */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 70%;
+  margin: 0 auto;
+}
