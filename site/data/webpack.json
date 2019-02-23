@@ -4,6 +4,20 @@
     "js": "main.js"
   },
   "": {
-    "": "fonts/.keep"
+    "woff": [
+      "/829012af195c90c00bac2953653768a8.woff",
+      "fonts/CircularStd-Black.woff",
+      "fonts/CircularStd-BlackItalic.woff",
+      "fonts/CircularStd-Bold.woff",
+      "fonts/CircularStd-BoldItalic.woff",
+      "fonts/CircularStd-Book.woff",
+      "fonts/CircularStd-BookItalic.woff",
+      "fonts/CircularStd-Medium.woff",
+      "fonts/CircularStd-MediumItalic.woff"
+    ],
+    "": [
+      "fonts/.DS_Store",
+      "fonts/.keep"
+    ]
   }
 }

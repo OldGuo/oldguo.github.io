@@ -1,4 +1,6 @@
+<ul>
 {{ range .Site.Data.config.links }}
-  <a href="{{ .link }}">{{ .name }}</a>
+  <li><a href="{{ .link }}">{{ .name }}</a></li>
 {{ end }}
+</ul>
 

@@ -1,0 +1,5 @@
+<ul>
+{{ range where .Site.Pages ".Params.nav" "true" }}
+  <li><a href="{{ .Params.url }}">{{ .Params.title }}</a></li>
+{{ end }}
+</ul>
