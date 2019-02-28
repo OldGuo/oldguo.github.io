@@ -51,4 +51,11 @@ ul {
 
 ul li{
   display: inline;
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
 }
