@@ -23,36 +23,35 @@ body {
   flex-direction: column;
 }
 
+#main {
+  margin-top: 10%;
+  height: 100vh;
+}
+
 a {
-  text-decoration: none;
-  transition: 300ms;
   border-bottom: 1px solid transparent;
 }
 
 a {
-  color: #FF6679;
+  color: black;
 }
 
 a:visited {
-  color: #FF6679;
-}
-
-a:hover {
-  border-color: #FF6679;
+  color: black;
 }
 
 .content {
   padding: 0 32px;
 }
 
-ul {
+.nav ul {
   padding-left: 0px;
-}
 
-ul li{
-  display: inline;
-  margin-left: 1vh;
-  margin-right: 1vh;
+  li {
+    display: inline;
+    margin-left: 1vh;
+    margin-right: 1vh;
+  }
 }
 
 .profile-img {
