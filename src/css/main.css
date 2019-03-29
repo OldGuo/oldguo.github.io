@@ -40,16 +40,11 @@ a:visited {
   color: black;
 }
 
-.content {
-  padding: 0 32px;
-}
-
 .nav ul {
   padding-left: 0px;
 
   li {
     display: inline;
-    margin-left: 1vh;
     margin-right: 1vh;
   }
 }
