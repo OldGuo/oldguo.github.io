@@ -1,6 +1,7 @@
-<ul>
-{{ range .Site.Data.config.links }}
-  <li><a href="{{ .link }}">{{ .name }}</a></li>
+{{ $links := .Site.Data.config.links }}
+
+{{ range $index, $element := $links }}
+ {{ if (eq (add $index 1) (len $links)) }}and {{ end}}<a href="{{ $element.link }}">{{ .name }}</a>{{ if (eq (add $index 1) (len $links)) }}.{{ else }},{{ end }}
 {{ end }}
-</ul>
+
 
