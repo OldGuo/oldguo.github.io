@@ -1,7 +1,7 @@
 ---
-title: "about"
+title: "This is an article"
 url: "/about/"
-nav: "true"
+nav: "false"
 date: "2017-02-14"
 layout: "about"
 ---
