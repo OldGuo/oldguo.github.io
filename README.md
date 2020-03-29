@@ -1,17 +1,17 @@
-This project was built with [Jekyll](https://jekyllrb.com/)!
+# Gatsby Starter Blog with Typescript
 
-## Usage
-1. Clone repository
-```
-$ git clone https://github.com/OldGuo/oldguo.github.io.git
-$ cd oldguo.github.io
-```
+This project attempts to make Gatsby's [starter blog](https://github.com/gatsbyjs/gatsby-starter-blog) type-safe. In addition, styled components are used in favor of inline jsx styles.
 
-2. [Install Jekyll](https://jekyllrb.com/docs/installation/)
+## Features (in addition to the Gatsby Starter)
 
-3. Build and run
-```
-$ bundle exec jekyll serve -w
-```
+- [Typescript](http://www.typescriptlang.org/)
+- [Styled Components](https://www.styled-components.com/)
+- [Graphql Codegen](https://github.com/dotansimha/graphql-code-generator)
+- [Gatsby Transition Link](https://www.gatsbyjs.org/packages/gatsby-plugin-transition-link/?=transition)
 
-4. Visit page at localhost:4000
+## Roadmap
+
+- Make `onCreateNode` type-safe
+- Improved grapql typings generations
+
+Currently, the type graphql type definition file has everything as nullable, so a lot of nested non-null assertions are used when accessing data from queries.
