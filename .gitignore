@@ -1,5 +1,8 @@
 _site/
 node_modules/
+.cache/
+public/
+reduxcache*
 .sass-cache
 .DS_Store
 *.swp
