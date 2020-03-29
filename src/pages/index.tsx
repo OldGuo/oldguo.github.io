@@ -69,7 +69,7 @@ const BlogIndex = (props: Props) => {
             <small>{frontmatter.date}</small>
             <p
               dangerouslySetInnerHTML={{
-                __html: frontmatter.description || excerpt
+                __html: frontmatter.description || excerpt,
               }}
             />
           </div>

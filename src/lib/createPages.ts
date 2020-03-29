@@ -11,7 +11,7 @@ interface Post {
 
 export const createPages: GatsbyCreatePages = async ({
   graphql,
-  boundActionCreators
+  boundActionCreators,
 }) => {
   const { createPage } = boundActionCreators;
 
@@ -48,13 +48,12 @@ export const createPages: GatsbyCreatePages = async ({
 
     createPage({
       path: post.node.fields.slug,
-      // tslint:disable-next-line:object-literal-sort-keys
       component: path.resolve(`./src/templates/blog-post.tsx`),
       context: {
         next,
         previous,
-        slug: post.node.fields.slug
-      }
+        slug: post.node.fields.slug,
+      },
     });
   });
 
